@@ -14,8 +14,8 @@ class Filme {
             Ano: ${this.ano}
             Duração: ${this.duracao} 
             Gênero: ${this.genero}
-            Assistido: ${this.assistido ? 'Sim' : 'Não'}
-            Avaliação: ${this.avaliacao}`);
+            Assistido: ${this.assistir ? 'Sim' : 'Não'}
+            Avaliação: ${this.avaliar}`);
     }
   
     assistido() {
