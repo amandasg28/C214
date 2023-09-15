@@ -1,0 +1,1 @@
+Os testes funcionais garantem que o software faça o que deve fazer corretamente, enquanto os testes não funcionais avaliam como o software faz isso, incluindo aspectos como desempenho, segurança e usabilidade.
